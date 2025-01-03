@@ -1,3 +1,16 @@
+## [0.5.1] - 2025-01-03
+
+- Fix BLIS_VERSION and LAPACK_VERSION constants.
+
+## [0.5.0] - 2025-01-03
+
+- Change the version of BLIS to be downloaded to 1.0.
+- Change the version of LAPCK to be downloaded to 3.11.0.
+
+## [0.4.1] - 2022-07-31
+
+- Refactor codes and configs with RuboCop.
+
 ## [0.4.0] - 2022-04-15
 
 - Change the version of BLIS to be downloaded to 0.9.0.
